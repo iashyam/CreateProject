@@ -7,7 +7,14 @@ Everytime I work on a any Idea, I need to perform a fixed tasks. This project au
 1. I perform some things like git init. 
 
 Sometimes I am excited to work on the idea and other times, I am lazy to create a github repo, so  end up not putting them on github and thus I lost I lot of data. 
-This projects does all that for me in few seconds, and I have to do just git commit. 
+Now I just have to run one command from my terminal and it does everything for me!!
+```bash
+create DemoProjects
+```
+
+Visual Domenstration:
+[Create Project](https://youtu.be/oZKC8-WxKsY)
+
 
 #### Idea
 This Idea I got from kalle hallden. He did the same thing but he didn't taught how. He provided his code but I didn't understand a bit so I started with very begining. 

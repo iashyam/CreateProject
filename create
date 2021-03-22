@@ -1,0 +1,18 @@
+#create a file called main.py and put it somewhere it don't get deleted
+#put file's full path here
+cd
+python -u /home/shyam/anaconda3/Selenium/main.py $1
+
+hsh='# '
+
+cd /home/shyam/python\ projects #this is the projects folder
+mkdir $1
+cd $1
+git init 
+git remote add origin git@github.com:iashyam/$1.git
+touch README.md
+echo  $hsh$1 >> README.md
+git add .
+git commit -m "Initial Commit"
+git push -u origin master
+code .

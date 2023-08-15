@@ -7,7 +7,7 @@ Every time I work on any Idea, I need to perform fixed tasks. This project autom
 1. I perform some things like git init.
 
 ### Demonstration 
-![YouTube](https://www.youtube.com/watch?v=oZKC8-WxKsY)
+[YouTube](https://www.youtube.com/watch?v=oZKC8-WxKsY)
 
 Sometimes I am excited to work on the idea and other times, I am lazy to create a github repo, so  end up not putting them on github and thus I lost I lot of data. 
 Now I just have to run one command from my terminal and it does everything for me!!

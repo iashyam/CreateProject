@@ -1,10 +1,13 @@
 # CreateProject
 
 ### Introduction 
-Everytime I work on a any Idea, I need to perform a fixed tasks. This project automates those tasks and creates a fresh project for me. What I mean by creating a project is:
-1. I go to my projects folder and create a new foler. 
-2. I make a github repository with the same name. 
-1. I perform some things like git init. 
+Every time I work on any Idea, I need to perform fixed tasks. This project automates those tasks and creates a fresh project for me. What I mean by creating a project is:
+1. I go to my projects folder and create a new folder. 
+2. I make a GitHub repository with the same name. 
+1. I perform some things like git init.
+
+### Demonstration 
+![YouTube](https://www.youtube.com/watch?v=oZKC8-WxKsY)
 
 Sometimes I am excited to work on the idea and other times, I am lazy to create a github repo, so  end up not putting them on github and thus I lost I lot of data. 
 Now I just have to run one command from my terminal and it does everything for me!!
